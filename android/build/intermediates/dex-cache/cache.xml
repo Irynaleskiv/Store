@@ -1,0 +1,852 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/classes-e3693fc3b05a0c7cff3a4eeb3a8f9ef2f2555ab3.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/classes-a14a41bdbccb06578708f57ef08093530631d78d.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/Store/android/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/irynaleskiv/Store/android/app/build/intermediates/pre-dexed/debug/classes-81d3132f37f3e704d8a838895be620a020f46ee7.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0-82f3c810cabc7408b8ebaae4875d4ff6594346a9.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/Store/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8533fded30a088d385ac4352fad84c38cd1b1bbe">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/classes-c2261995b2adf47f472fc551a57d985232ad0d20.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/classes-56091789b808a9aa250585b9613f8e963ba9083e.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/Store/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/irynaleskiv/Store/android/app/build/intermediates/pre-dexed/debug/classes-81cb32028e7433ff551161339f6e639936c77228.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/classes-5be317aec9be090b5470e187decb999cc8a12deb.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/com.aurelhubert/ahbottomnavigation/2.0.6/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="c8ba41bea7f78f8bdf3a803b9d08eb3fff416706">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/classes-64e6d1c17dc020f2595e007082635da43f20a857.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/org.webkit/android-jsc/r174650/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="12b885b3ed1fc74a51f671ad40867aa91271843d">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/classes-12557ef610535968f269d81a52d6361e67e5a9c2.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/Store/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/irynaleskiv/Store/android/app/build/intermediates/pre-dexed/debug/classes-a51c80b2612cf2cb604adcce80e84529b5eeab86.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-9f2db138612d1a3ea01cefcb93d86a7d7dcd16af.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0-595d4785d8342ac58d65eb6d0600bd8e8db7394a.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0-b9541a35bd090b3c37019ae0496dd685e5712051.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/com.balysv.materialmenu/material-menu-toolbar/1.5.4/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="55d7bf547c88cb7c8c7c5cdbf3b06dd66c9750f8">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/classes-2b8995545d0f82c99e0b43eca540817cdd152a03.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/javax.inject-1-9517f4ae05d8478ab8661d5d25db00524e58af01.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/classes-4702701cf16e818ce2171d4450ffaf43f101bf31.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-ebbf87ed067ee2ec60ab6cc163df8a5f815ee890.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/classes-5fead2ecfef4465e67c9cca503dc3dd1204e2c71.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0-890698ab7a7b06d5a50095648848cb0f3fbf7ae0.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/classes-9cecd6c8ecdf159f3cd80fbbd5441e1d0094d17e.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/classes-ad3bed7722a8b0b2855dcf659e690dd6cd18b4c4.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/classes-9defb83e8a538e1db423f52f44567dc3575dc510.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/Store/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/irynaleskiv/Store/android/app/build/intermediates/pre-dexed/debug/classes-35ab1b7397fc2b5f0a5dac8e5dd84e6718372af6.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/classes-39f3c419ed2436556d3e51151e2d1a7f8322b62c.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/Store/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/irynaleskiv/Store/android/app/build/intermediates/pre-dexed/debug/classes-95ef685dceab36a26f3b8ce9d46c790b649efb67.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/classes-44abe456564662ad38ca95cd0f5d2685d420fc47.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0-b9541a35bd090b3c37019ae0496dd685e5712051.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/classes-d4b07c53ad5cb8b17577a6600f2b6567196bb9ce.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0-82f3c810cabc7408b8ebaae4875d4ff6594346a9.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/classes-56091789b808a9aa250585b9613f8e963ba9083e.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/classes-a14a41bdbccb06578708f57ef08093530631d78d.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/classes-44abe456564662ad38ca95cd0f5d2685d420fc47.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/org.webkit/android-jsc/r174650/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="12b885b3ed1fc74a51f671ad40867aa91271843d">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/classes-12557ef610535968f269d81a52d6361e67e5a9c2.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/classes-d4b07c53ad5cb8b17577a6600f2b6567196bb9ce.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1-91bc64f3ca975ba173449a9d07796e5f519dbb13.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0-680be108da0d60102076cf6a5615cbf0661718b0.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/classes-1a077822111c9495e98d890766e03e2420bc3c2f.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/classes-da7ac0d1de7ed44ee617ea800256138d83a69cd8.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/classes-7b3bada5cae05d89aca03add19deff1e39d733d3.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/classes-7b8c71cdfdbdc6613477e9a2d2a85318ea66c5ad.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/Store/android/app/build/intermediates/exploded-aar/Store/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="445edb07f09fc17d34da2e395b2cfb672bb7c08e">
+        <dex dex="/Users/irynaleskiv/Store/android/app/build/intermediates/pre-dexed/debug/classes-c85c09e6444a4d235876e48bd30c617618f61856.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/classes-fad15209d1f66b1a4fe0372780d82e2d0098fd89.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/classes-5fead2ecfef4465e67c9cca503dc3dd1204e2c71.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/Store/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/irynaleskiv/Store/android/app/build/intermediates/pre-dexed/debug/classes-e75f84d630ab05031d5d9dcbe723d85e09848311.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/Store/android/app/build/intermediates/exploded-aar/com.balysv.materialmenu/material-menu/1.5.4/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="1f6ff1728c297524e82b875ce2dfda946f4bca41">
+        <dex dex="/Users/irynaleskiv/Store/android/app/build/intermediates/pre-dexed/debug/classes-eee66ea4bd75cd7d9d6cf5ca6fa6991d53e4e7dd.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-ebbf87ed067ee2ec60ab6cc163df8a5f815ee890.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0-b9541a35bd090b3c37019ae0496dd685e5712051.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/classes-44f90275c8cbd1dcf254b7e0deebfe4910179302.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/classes-56091789b808a9aa250585b9613f8e963ba9083e.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/classes-1a077822111c9495e98d890766e03e2420bc3c2f.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/Store/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.3/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="01f201f8a16c7438c9ee4c56139d01663f2cb0e4">
+        <dex dex="/Users/irynaleskiv/Store/android/app/build/intermediates/pre-dexed/debug/classes-59525ff2f170df67df6b6356f59ddd4dbb5d8426.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/Store/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/irynaleskiv/Store/android/app/build/intermediates/pre-dexed/debug/classes-1495b012e896fedbf3cf67daf9765dc3f16f6206.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/classes-6d19b8c895629e85ce7b4f1f38f271c5b0db0f3c.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0-890698ab7a7b06d5a50095648848cb0f3fbf7ae0.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.3/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0-dc7c458deec09ee65bfa49bc4d5a128ef3917b9b.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/Store/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.3/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/irynaleskiv/Store/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0-20cbba519e48fec095062078fa7eadd8ba4e87de.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/classes-5be317aec9be090b5470e187decb999cc8a12deb.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/classes-9cecd6c8ecdf159f3cd80fbbd5441e1d0094d17e.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/classes-fdece91215c7a7e2eb734f495aa452d914ce6c10.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0-595d4785d8342ac58d65eb6d0600bd8e8db7394a.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/Store/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="8533fded30a088d385ac4352fad84c38cd1b1bbe">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/classes-c2261995b2adf47f472fc551a57d985232ad0d20.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/classes-a14a41bdbccb06578708f57ef08093530631d78d.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/javax.inject-1-9517f4ae05d8478ab8661d5d25db00524e58af01.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/Store/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/irynaleskiv/Store/android/app/build/intermediates/pre-dexed/debug/classes-7094aebe2d0fbd33e6b1f32127f9def48d8a3938.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/org.webkit/android-jsc/r174650/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="12b885b3ed1fc74a51f671ad40867aa91271843d">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/classes-12557ef610535968f269d81a52d6361e67e5a9c2.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.3/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0-dc7c458deec09ee65bfa49bc4d5a128ef3917b9b.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/Store/android/app/build/intermediates/exploded-aar/Store/react-native-navigation/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="b7ef2931daddcfd61ba5fa1c8be3e410acd06523">
+        <dex dex="/Users/irynaleskiv/Store/android/app/build/intermediates/pre-dexed/debug/classes-e6782e2dc8acb7b220b87dbc5a19c72274d445b5.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/Store/react-native-navigation/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="5deb58c3cfa5f03b66f4ef5b5beeeb1ff915165f">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/classes-9db3fe1ab5cf98c74afc64cf0a0cc11b192a8703.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/com.balysv.materialmenu/material-menu/1.5.4/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="1f6ff1728c297524e82b875ce2dfda946f4bca41">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/classes-cccb1a7d354c60e4f4e6b04ad8275db35b7bbe9a.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/Store/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/irynaleskiv/Store/android/app/build/intermediates/pre-dexed/debug/classes-cdb674ccae781c90eede4d6f0620d54021b3b9c5.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/Store/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/irynaleskiv/Store/android/app/build/intermediates/pre-dexed/debug/classes-7aef65c71231e8dcc82c28bbedc419a798c6cab7.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/classes-9cecd6c8ecdf159f3cd80fbbd5441e1d0094d17e.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/classes-9defb83e8a538e1db423f52f44567dc3575dc510.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/classes-39f3c419ed2436556d3e51151e2d1a7f8322b62c.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0-680be108da0d60102076cf6a5615cbf0661718b0.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/Store/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/irynaleskiv/Store/android/app/build/intermediates/pre-dexed/debug/classes-cc83ce53fa7a301e42166804ff7fa4ce37f44dcf.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/Store/android/app/build/intermediates/exploded-aar/com.aurelhubert/ahbottomnavigation/2.0.6/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="c8ba41bea7f78f8bdf3a803b9d08eb3fff416706">
+        <dex dex="/Users/irynaleskiv/Store/android/app/build/intermediates/pre-dexed/debug/classes-1035977a586ecb4d6dac975b7ec0ee561bd7547f.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/com.balysv.materialmenu/material-menu/1.5.4/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="1f6ff1728c297524e82b875ce2dfda946f4bca41">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/classes-cccb1a7d354c60e4f4e6b04ad8275db35b7bbe9a.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1-91bc64f3ca975ba173449a9d07796e5f519dbb13.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/Store/react-native-navigation/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="5deb58c3cfa5f03b66f4ef5b5beeeb1ff915165f">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/classes-9db3fe1ab5cf98c74afc64cf0a0cc11b192a8703.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/classes-1a077822111c9495e98d890766e03e2420bc3c2f.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/classes-da7ac0d1de7ed44ee617ea800256138d83a69cd8.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/classes-7b8c71cdfdbdc6613477e9a2d2a85318ea66c5ad.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0-82f3c810cabc7408b8ebaae4875d4ff6594346a9.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/classes-e3693fc3b05a0c7cff3a4eeb3a8f9ef2f2555ab3.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/Store/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/irynaleskiv/Store/android/app/build/intermediates/pre-dexed/debug/classes-0dc07f4d201a7296b34d87bb4d808ae0f7aba226.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="01f201f8a16c7438c9ee4c56139d01663f2cb0e4">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/classes-c9f5175c821de6db494d1eb8be32fa32824d5a1a.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/Store/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/irynaleskiv/Store/android/app/build/intermediates/pre-dexed/debug/classes-545b15b45bd5d1c8c5fdf4998050e3515f0dfa11.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/Store/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/irynaleskiv/Store/android/app/build/intermediates/pre-dexed/debug/classes-f782c7a92ed91d3b553b0652e836b6e8011cf76a.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/com.aurelhubert/ahbottomnavigation/2.0.6/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="c8ba41bea7f78f8bdf3a803b9d08eb3fff416706">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/classes-64e6d1c17dc020f2595e007082635da43f20a857.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.3/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="01f201f8a16c7438c9ee4c56139d01663f2cb0e4">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/classes-c9f5175c821de6db494d1eb8be32fa32824d5a1a.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/classes-4702701cf16e818ce2171d4450ffaf43f101bf31.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.3/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0-dc7c458deec09ee65bfa49bc4d5a128ef3917b9b.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-ebbf87ed067ee2ec60ab6cc163df8a5f815ee890.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0-680be108da0d60102076cf6a5615cbf0661718b0.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/Store/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/irynaleskiv/Store/android/app/build/intermediates/pre-dexed/debug/classes-1c5f1627d1dd6e83a79bbcf1e5d23a2a4d438bef.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/classes-ad3bed7722a8b0b2855dcf659e690dd6cd18b4c4.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/Store/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/irynaleskiv/Store/android/app/build/intermediates/pre-dexed/debug/classes-da2453b4a80c82e78dd6cd261ecb5e319428c695.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/classes-44abe456564662ad38ca95cd0f5d2685d420fc47.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/classes-d4b07c53ad5cb8b17577a6600f2b6567196bb9ce.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.3/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="01f201f8a16c7438c9ee4c56139d01663f2cb0e4">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/classes-c9f5175c821de6db494d1eb8be32fa32824d5a1a.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/Store/android/app/build/intermediates/exploded-aar/org.webkit/android-jsc/r174650/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="12b885b3ed1fc74a51f671ad40867aa91271843d">
+        <dex dex="/Users/irynaleskiv/Store/android/app/build/intermediates/pre-dexed/debug/classes-51fa0a8708cd6ea2513250fbec26e56dd2ce335e.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/classes-7b3bada5cae05d89aca03add19deff1e39d733d3.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/javax.inject-1-9517f4ae05d8478ab8661d5d25db00524e58af01.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/Store/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/irynaleskiv/Store/android/app/build/intermediates/pre-dexed/debug/classes-cd382190ed201d870089c9326a0c9c50c8d48e1c.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/classes-fad15209d1f66b1a4fe0372780d82e2d0098fd89.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/com.balysv.materialmenu/material-menu-toolbar/1.5.4/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="55d7bf547c88cb7c8c7c5cdbf3b06dd66c9750f8">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/classes-2b8995545d0f82c99e0b43eca540817cdd152a03.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/Store/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/irynaleskiv/Store/android/app/build/intermediates/pre-dexed/debug/classes-63e43a8cb7bc5b76881e781edc2badfb435b3d57.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/classes-5fead2ecfef4465e67c9cca503dc3dd1204e2c71.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/Store/android/app/build/intermediates/exploded-aar/com.balysv.materialmenu/material-menu-toolbar/1.5.4/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="55d7bf547c88cb7c8c7c5cdbf3b06dd66c9750f8">
+        <dex dex="/Users/irynaleskiv/Store/android/app/build/intermediates/pre-dexed/debug/classes-54f1753ad1cd2b611c083afdaa64b436215126bf.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/classes-44f90275c8cbd1dcf254b7e0deebfe4910179302.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/Store/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/irynaleskiv/Store/android/app/build/intermediates/pre-dexed/debug/classes-b21d987565a954edb6a00219947022a2016a0584.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/classes-6d19b8c895629e85ce7b4f1f38f271c5b0db0f3c.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-9f2db138612d1a3ea01cefcb93d86a7d7dcd16af.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0-595d4785d8342ac58d65eb6d0600bd8e8db7394a.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/Store/android/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/irynaleskiv/Store/android/app/build/intermediates/pre-dexed/debug/classes-670e0ea6cdb818de3d89c5715a7d19dbfb8c302a.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/classes-5be317aec9be090b5470e187decb999cc8a12deb.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0-890698ab7a7b06d5a50095648848cb0f3fbf7ae0.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/classes-fdece91215c7a7e2eb734f495aa452d914ce6c10.jar" />
+    </item>
+    <item
+        jar="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/exploded-aar/Store/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="8533fded30a088d385ac4352fad84c38cd1b1bbe">
+        <dex dex="/Users/irynaleskiv/WebstormProjects/Store/android/app/build/intermediates/pre-dexed/debug/classes-c2261995b2adf47f472fc551a57d985232ad0d20.jar" />
+    </item>
+
+</items>
